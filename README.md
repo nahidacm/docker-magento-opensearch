@@ -1,4 +1,4 @@
-## Docker for Magento 2
+## Docker for Magento 2 with webdevops base
 
 #### Includes
 * Nginx
